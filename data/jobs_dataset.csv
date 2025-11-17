@@ -1,0 +1,1001 @@
+JobRole,RequiredSkills,Description,AvgSalary,GrowthTrend
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High
+Machine Learning Engineer,"Python, Machine Learning, Deep Learning, TensorFlow, PyTorch, Scikit-learn, SQL, Data Preprocessing, MLOps, Cloud Deployment",Develops ML models and deploys them into production systems for decision-making.,120000,High
+Data Scientist,"Python, R, Statistics, Data Analysis, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Data Visualization, Feature Engineering",Extracts insights from large datasets and builds predictive models.,125000,High
+AI Research Scientist,"Python, Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, PyTorch, TensorFlow, Research Methods",Conducts advanced AI research and develops new algorithms.,140000,High
+Full Stack Developer,"JavaScript, React, Node.js, Express, HTML, CSS, SQL, MongoDB, REST APIs, Git, Docker, Kubernetes",Builds and maintains complete web applications across front-end and back-end.,110000,High
+Frontend Developer,"HTML, CSS, JavaScript, React, Angular, Vue.js, UI/UX, Git, Webpack",Develops user-facing components of web applications.,95000,Medium
+Backend Developer,"Java, Python, Node.js, SQL, MongoDB, REST APIs, Microservices, Docker, Kubernetes, Cloud Deployment","Implements server-side logic, databases, and APIs.",105000,High
+DevOps Engineer,"CI/CD, Jenkins, Docker, Kubernetes, Terraform, Ansible, Cloud (AWS, Azure, GCP), Python, Bash",Automates software delivery and manages infrastructure.,115000,High
+Cloud Engineer,"AWS, Azure, GCP, Docker, Kubernetes, Terraform, Python, Linux, Networking, Security",Designs and manages cloud infrastructure.,118000,High
+Cybersecurity Analyst,"Networking, Firewalls, IDS/IPS, SIEM, Ethical Hacking, Penetration Testing, Cryptography, Python","Monitors, prevents, and responds to cybersecurity threats.",102000,High
+UI/UX Designer,"Figma, Adobe XD, Prototyping, Wireframing, User Research, Interaction Design, HTML, CSS, JavaScript",Designs intuitive interfaces and user experiences.,90000,Medium
+Mechanical Engineer,"CAD, SolidWorks, AutoCAD, Thermodynamics, Fluid Mechanics, ANSYS, MATLAB, Manufacturing Processes","Designs, analyzes, and maintains mechanical systems.",85000,Medium
+Civil Engineer,"AutoCAD, STAAD Pro, Structural Design, Project Management, Surveying, Construction Materials","Plans, designs, and oversees construction projects.",80000,Medium
+Electrical Engineer,"Circuit Design, Power Systems, MATLAB, Control Systems, Embedded Systems, PCB Design, PLC, SCADA","Works on electrical systems, power distribution, and automation.",88000,Medium
+Chemical Engineer,"Process Design, Thermodynamics, MATLAB, Aspen HYSYS, Heat Transfer, Safety Analysis, Process Control",Optimizes chemical manufacturing and safety.,87000,Medium
+Biomedical Engineer,"Medical Devices, Biomechanics, MATLAB, LabVIEW, Tissue Engineering, Signal Processing",Develops medical equipment and healthcare technologies.,89000,High
+Aerospace Engineer,"Aerodynamics, Propulsion, MATLAB, CATIA, SolidWorks, CFD, Control Systems, Flight Mechanics","Designs and tests aircraft, spacecraft, and satellites.",95000,Medium
+Pharmacist,"Pharmacology, Drug Interactions, Clinical Research, Patient Counseling, Regulatory Compliance",Dispenses medications and advises on safe use.,78000,Medium
+Doctor,"Patient Care, Diagnosis, Surgery, Pharmacology, Emergency Medicine",Provides medical care and treatment to patients.,150000,High
+Nurse,"Patient Care, Emergency Response, Medical Procedures, Communication, Documentation",Provides nursing care and supports medical teams.,70000,High
+Clinical Research Associate,"Clinical Trials, Data Collection, Pharmacology, GCP Guidelines, Medical Writing",Manages clinical trials and research for new drugs.,82000,High

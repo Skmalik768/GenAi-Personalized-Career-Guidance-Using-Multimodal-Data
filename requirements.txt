@@ -1,0 +1,12 @@
+streamlit==1.38.0
+pymupdf==1.24.0           # Resume text extraction
+chromadb==0.4.24          # Vector DB for storing job roles & skills
+langchain==0.2.7          # Agent framework
+langchain-community==0.2.7
+ollama==0.1.6             # Python client for Ollama
+transformers==4.42.4      # For embeddings/text analysis
+torch==2.3.0              # Required by transformers
+soundfile==0.12.1         # Audio handling
+librosa==0.10.2           # Audio feature extraction
+numpy==1.26.4
+pandas==2.2.2
