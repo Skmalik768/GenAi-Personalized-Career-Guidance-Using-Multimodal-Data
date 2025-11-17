@@ -53,36 +53,7 @@ To address these limitations, this work introduces a **multimodal, AI-driven fra
 ---
 
 ## 🏗 System Architecture
-
-┌──────────────────────────────────────────┐
-| User Input |
-| Resume / Skills / Behavioral Text / Audio|
-└──────────────────────────────────────────┘
-│
-▼
-┌──────────────────────────────────────────┐
-| Multimodal Processing Agents |
-| - Resume Parser (OCR + NLP) |
-| - Text Embedding Analyzer |
-| - Audio Confidence Profiler |
-└──────────────────────────────────────────┘
-│
-▼
-Multimodal Fusion Layer
-│
-▼
-┌──────────────────────────────────────────┐
-| Hybrid Career Recommendation Engine |
-| ChromaDB Vector Retrieval + Tavily Jobs |
-└──────────────────────────────────────────┘
-│
-▼
-Interview Preparation & Skill Pathway
-
-yaml
-Copy code
-
----
+<img width="322" height="497" alt="image" src="https://github.com/user-attachments/assets/1a59e9e7-c04b-400e-a9c9-fc02b41273ca" />
 
 ## 📊 Key Results (Experimental Findings)
 
@@ -102,22 +73,21 @@ Example Output:
 
 ## 📁 Repository Structure
 
-├── app.py # Streamlit application interface
-├── resume_parser.py # Hybrid text/OCR resume processing
-├── text_analysis.py # Behavioral semantic analysis
-├── audio_analysis.py # Whisper + acoustic confidence scoring
-├── fusion_model.py # Multimodal vector fusion
-├── recommender.py # Hybrid vector + market-aware retrieval
-├── interview_prep.py # LLM interview/learning plan generation
-├── job_db.py # Local structured job role database
-├── data/ # Sample datasets
+
+```plaintext
+📁 Repository Structure
+├── app.py                # Streamlit application interface
+├── resume_parser.py      # Hybrid text/OCR resume processing
+├── text_analysis.py      # Behavioral semantic analysis
+├── audio_analysis.py     # Whisper + acoustic confidence scoring
+├── fusion_model.py       # Multimodal vector fusion
+├── recommender.py        # Hybrid vector + market-aware retrieval
+├── interview_prep.py     # LLM interview/learning plan generation
+├── job_db.py             # Local structured job role database
+├── data/                 # Sample datasets
 ├── requirements.txt
-└── .env (ignored)
-
-yaml
-Copy code
-
----
+└── .env                  # Environment variables (ignored)
+```
 
 ## 🧪 Technology Stack
 
@@ -138,29 +108,19 @@ Copy code
 
 ### 1️⃣ Install Ollama
 Download: https://ollama.com/download
-
-Run test model:
-```bash
-ollama run mistral
-2️⃣ Clone the Repository
-bash
-Copy code
-git clone https://github.com/<your-username>/<repo>.git
-cd <repo>
-3️⃣ Create Virtual Environment
-bash
-Copy code
+Run test model: ollama run mistral
+### 2️⃣ Clone the Repository
+https://github.com/Skmalik768/GenAi-Personalized-Career-Guidance-Using-Multimodal-Data.git
+### 3️⃣ Create Virtual Environment
 python -m venv .venv
 # Windows
 .venv\Scripts\activate
 # Linux/Mac
 source .venv/bin/activate
 pip install -r requirements.txt
-4️⃣ Launch Application
-bash
-Copy code
+### 4️⃣ Launch Application
 streamlit run app.py
-🔮 Future Improvements
+### 🔮 Future Improvements
 Psychometric and visual multimodal integration
 
 Explainable AI (XAI) transparency layer
